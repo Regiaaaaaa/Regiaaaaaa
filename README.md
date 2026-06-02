@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Beginner Web Developer<br><br>- ⚡ I'm currently interning at IMP Studio<br><br>- 📚I'm an active student at Taruna Bhakti Vocational School..</p>
+<p align="left">Beginner Web Developer<br><br>- 📚I'm an active student at Taruna Bhakti Vocational School..</p>
 
 ###
 
